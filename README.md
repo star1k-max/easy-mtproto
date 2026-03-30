@@ -38,4 +38,4 @@
 Выполните команду **от root**:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/star1k-max/easy-mtproto/main/install_mtproxy.sh | bash
+curl -sSL https://raw.githubusercontent.com/star1k-max/easy-mtproto/main/install-mtproxy.sh | bash
