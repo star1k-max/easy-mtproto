@@ -39,3 +39,9 @@
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/star1k-max/easy-mtproto/main/install-mtproxy.sh | bash
+```
+## ❌ Удаление следов скрипта
+
+```bash
+curl -sSL https://raw.githubusercontent.com/star1k-max/easy-mtproto/main/uninstall-mtproxy.sh | bash
+```
